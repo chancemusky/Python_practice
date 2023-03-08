@@ -1,0 +1,11 @@
+Hypergeometric distribution: 
+
+N = # items in population (# cards in deck)
+K = # successes in population (# desired cards in deck, e.g. blue land)
+n = # items in the sample (# cards you've already drawn, or N-draws)
+x = # items in the sample that were successes (number of given card you want to draw)
+kCx = # combinations of k things, taken x at a time
+h(x;N,n,K): hypergeometric probability, P(X = x)
+
+
+
